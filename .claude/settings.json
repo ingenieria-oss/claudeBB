@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(forge *)",
+      "Bash(cast *)",
+      "Bash(anvil *)",
+      "Bash(chisel *)",
+      "Bash(git *)",
+      "Bash(curl *)",
+      "Bash(solana *)",
+      "Bash(solana-test-validator *)",
+      "Bash(anchor *)",
+      "Bash(cargo *)",
+      "Bash(pnpm *)",
+      "Bash(npm *)",
+      "Bash(npx *)",
+      "Bash(python3 *)",
+      "Bash(pip3 *)",
+      "Bash(slither *)",
+      "Bash(go *)",
+      "Bash(make *)",
+      "WebFetch",
+      "WebSearch",
+      "mcp__Firecrawl__*",
+      "mcp__Exa__*",
+      "mcp__Blockscout__*"
+    ]
+  }
+}
